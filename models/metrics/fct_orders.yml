@@ -165,7 +165,7 @@ metrics:
       metrics:
       - name: order_total
         alias: revenue
-      - name: order_cost
+      - name: order_amount
         alias: cost
 
   - name: "food_order_pct_cumulative"
