@@ -37,7 +37,7 @@ semantic_models:
         agg: count_distinct
 
 metrics:
-#SIMPLE TYPE METRICS
+  #SIMPLE TYPE METRICS
   - name: "customers"
     description: "Count of customers"
     type: simple
